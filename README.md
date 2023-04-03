@@ -29,3 +29,4 @@ Is XAI a real problem? This gathers catastrophic errors of AIs in the real world
 - [Google fires software engineer who claims AI chatbot is sentient](https://www.theguardian.com/technology/2022/jul/23/google-fires-software-engineer-who-claims-ai-chatbot-is-sentient)
 - [Creepy Microsoft Bing Chatbot Urges Tech Columnist To Leave His Wife](https://ca.movies.yahoo.com/creepy-microsoft-bing-chatbot-urges-014911899.html)
 - [Microsoft’s new Bing AI chatbot is already insulting and gaslighting users](https://www.fastcompany.com/90850277/bing-new-chatgpt-ai-chatbot-insulting-gaslighting-users)
+- [Google’s AI chatbot Bard makes factual error in first demo](https://www.theverge.com/2023/2/8/23590864/google-ai-chatbot-bard-mistake-error-exoplanet-demo)
