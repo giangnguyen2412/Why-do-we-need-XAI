@@ -30,3 +30,4 @@ Is XAI a real problem? This gathers catastrophic errors of AIs in the real world
 - [Creepy Microsoft Bing Chatbot Urges Tech Columnist To Leave His Wife](https://ca.movies.yahoo.com/creepy-microsoft-bing-chatbot-urges-014911899.html)
 - [Microsoft’s new Bing AI chatbot is already insulting and gaslighting users](https://www.fastcompany.com/90850277/bing-new-chatgpt-ai-chatbot-insulting-gaslighting-users)
 - [Google’s AI chatbot Bard makes factual error in first demo](https://www.theverge.com/2023/2/8/23590864/google-ai-chatbot-bard-mistake-error-exoplanet-demo)
+- [The first known chatbot associated death](https://garymarcus.substack.com/p/the-first-known-chatbot-associated) - Additional Links: [[1]](https://www.brusselstimes.com/430098/belgian-man-commits-suicide-following-exchanges-with-chatgpt?utm_source=substack&utm_medium=email)
