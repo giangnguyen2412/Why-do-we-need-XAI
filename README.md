@@ -14,6 +14,7 @@ Is XAI a real problem? This gathers catastrophic errors of AIs in the real world
 - [2 killed in driverless tesla car crash](https://www.nytimes.com/2021/04/18/business/tesla-fatal-crash-texas.html)
 - [11 more people killed in crashes involving automated-tech vehicles](https://www.cbsnews.com/news/self-driving-vehicles-crash-deaths-elon-musk-tesla-nhtsa-2022/)
 - [Surveillance video shows self-driving Tesla crash on Bay Bridge](https://www.youtube.com/watch?v=E531GxfEoB8&ab_channel=KRON4)
+- [Dashcam Footage Shows Driverless Cars Clogging San Francisco](https://www.wired.com/story/dashcam-footage-shows-driverless-cars-cruise-waymo-clogging-san-francisco/#:~:text=A%20San%20Francisco%20light%2Drail,and%20in%20the%20driver's%20cabin.&text=Five%20seconds%20later%2C%20brakes%20slammed%20on%20both%20vehicles.)
 
 ## Discrimination
 - [This image of a white barack obama is AI's racial bias problem in a nutshell](https://www.vice.com/en/article/7kpxyy/this-image-of-a-white-barack-obama-is-ais-racial-bias-problem-in-a-nutshell)
