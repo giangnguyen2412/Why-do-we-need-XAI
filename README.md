@@ -38,6 +38,7 @@ Is XAI a real problem? This gathers catastrophic errors of AIs in the real world
 - [Bing AI Can't Be Trusted](https://dkb.blog/p/bing-ai-cant-be-trusted)
 - [Don't believe ChatGPT - we do NOT offer a "phone lookup" service](https://blog.opencagedata.com/post/dont-believe-chatgpt)
 - [The first known chatbot associated death](https://garymarcus.substack.com/p/the-first-known-chatbot-associated) - Additional Links: [[1]](https://www.brusselstimes.com/430098/belgian-man-commits-suicide-following-exchanges-with-chatgpt?utm_source=substack&utm_medium=email)
+- [Bing suspended itself from using the Bing Image Creator while trying to help me out ...](https://twitter.com/kchonyc/status/1648122955501830144?s=12&t=S5rff79bIYKxXzLi-FckbA)
 
 ## Military
 
