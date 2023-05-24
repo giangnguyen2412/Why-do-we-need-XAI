@@ -1,6 +1,10 @@
 # Why do we need XAI
 Is XAI a real problem? This gathers catastrophic errors of AIs in the real world and justifications why we need XAI per case.
 
+## News 
+- [AI-Generated Image of Pentagon Explosion Caused Markets to Dip](https://petapixel.com/2023/05/22/ai-generated-image-of-pentagon-explosion-caused-markets-to-dip/) - [Twitter's Synthetic and manipulated media policy](https://help.twitter.com/en/rules-and-policies/manipulated-media)
+
+
 ## Criminal justice
 - [Police officiers relied on Clearview AI face recognition and put the wrong person in jail](https://www.nytimes.com/2023/03/31/technology/facial-recognition-false-arrests.html?)
 - [How Wrongful Arrests Based on AI Derailed 3 Men's Lives](https://www.wired.com/story/wrongful-arrests-ai-derailed-3-mens-lives/)
