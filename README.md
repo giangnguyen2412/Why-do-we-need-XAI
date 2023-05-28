@@ -14,6 +14,11 @@ Is XAI a real problem? This gathers catastrophic errors of AIs in the real world
 - [Nijeer parks was arrested due to a false facial recognition match](https://www.cnn.com/2021/04/29/tech/nijeer-parks-facial-recognition-police-arrest/index.html)
 - [Algorithmic bias detection and mitigation: Best practices and policies to reduce consumer harms](https://www.brookings.edu/research/algorithmic-bias-detection-and-mitigation-best-practices-and-policies-to-reduce-consumer-harms/)
 
+## Law
+
+- [Lawyer cites fake cases invented by ChatGPT, judge is not amused](https://simonwillison.net/2023/May/27/lawyer-chatgpt/) - [The New York Times article](https://www.nytimes.com/2023/05/27/nyregion/avianca-airline-lawsuit-chatgpt.html)
+
+
 ## Autonomous driving
 
 - [The self-driving uber that killed a pedestrian didn't brake. Here's why](https://slate.com/technology/2018/05/uber-car-in-fatal-arizona-crash-perceived-pedestrian-1-3-seconds-before-impact.html)
