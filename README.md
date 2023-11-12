@@ -59,3 +59,6 @@ Is XAI a real problem? This gathers catastrophic errors of AIs in the real world
 
 ## Reinforcement Learning
 - [Man beats machine at Go in human victory over AI](https://arstechnica.com/information-technology/2023/02/man-beats-machine-at-go-in-human-victory-over-ai/)
+
+## Robots that kill
+- [Man killed by an industrial robot](https://twitter.com/ronawang/status/1723047130657394785/photo/1)
