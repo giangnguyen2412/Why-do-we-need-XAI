@@ -1,3 +1,5 @@
+# Disclaimer: This repo is actively maintained by Mohammad Reza Taesiri (University of Alberta) and Giang Nguyen (Auburn University).
+
 # Why do we need XAI
 Is XAI a real problem? This gathers catastrophic errors of AIs in the real world and justifications why we need XAI per case.
 
