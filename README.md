@@ -33,6 +33,7 @@ Is XAI a real problem? This gathers catastrophic errors of AIs in the real world
 - [This image of a white barack obama is AI's racial bias problem in a nutshell](https://www.vice.com/en/article/7kpxyy/this-image-of-a-white-barack-obama-is-ais-racial-bias-problem-in-a-nutshell)
 - [The woman worked as a babysitter: On biases in language generation](https://arxiv.org/abs/1909.01326)
 - [Gender shades: Intersectional accuracy disparities in commercial gender classication](https://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf)
+- [Beyond Skin Tone: A Multidimensional Measure of Apparent Skin Color](TBA)
 
 ## Finance
 
