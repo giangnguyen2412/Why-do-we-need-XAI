@@ -1,7 +1,7 @@
 # Disclaimer: This repo is actively maintained by Mohammad Reza Taesiri (University of Alberta) and Giang Nguyen (Auburn University).
 
 # Why do we need XAI
-Is XAI a real problem? This gathers catastrophic errors of AIs in the real world and justifications why we need XAI per case.
+How important is XAI? This gathers catastrophic errors of AIs in the real world and justifications why we need XAI per case.
 
 ## News
 
@@ -37,11 +37,10 @@ Is XAI a real problem? This gathers catastrophic errors of AIs in the real world
 - [Gender shades: Intersectional accuracy disparities in commercial gender classication](https://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf)
 - [Beyond Skin Tone: A Multidimensional Measure of Apparent Skin Color](TBA)
 
-## Finance
-
 ## Heathcare
 
 - [How IBM’s Watson Went From the Future of Health Care to Sold Off for Parts](https://slate.com/technology/2022/01/ibm-watson-health-failure-artificial-intelligence.html)
+- [UnitedHealth uses AI model with 90% error rate to deny care, lawsuit alleges](https://arstechnica.com/health/2023/11/ai-with-90-error-rate-forces-elderly-out-of-rehab-nursing-homes-suit-claims/)
 
 ## Language Models and Chatbots
 
