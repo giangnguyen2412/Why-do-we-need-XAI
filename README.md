@@ -44,6 +44,7 @@ How important is XAI? This gathers catastrophic errors of AIs in the real world 
 
 ## Language Models and Chatbots
 
+- [Airline held liable for its chatbot giving passenger bad advice - what this means for travellers](https://www.bbc.com/travel/article/20240222-air-canada-chatbot-misinformation-what-travellers-should-know)
 - [Google fires software engineer who claims AI chatbot is sentient](https://www.theguardian.com/technology/2022/jul/23/google-fires-software-engineer-who-claims-ai-chatbot-is-sentient)
 - [Google shares drop $100 billion after its new AI chatbot makes a mistake](https://www.npr.org/2023/02/09/1155650909/google-chatbot--error-bard-shares)
 - [Creepy Microsoft Bing Chatbot Urges Tech Columnist To Leave His Wife](https://ca.movies.yahoo.com/creepy-microsoft-bing-chatbot-urges-014911899.html)
