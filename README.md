@@ -30,6 +30,8 @@ How important is XAI? This gathers catastrophic errors of AIs in the real world 
 - [Surveillance video shows self-driving Tesla crash on Bay Bridge](https://www.youtube.com/watch?v=E531GxfEoB8&ab_channel=KRON4)
 - [Dashcam Footage Shows Driverless Cars Clogging San Francisco](https://www.wired.com/story/dashcam-footage-shows-driverless-cars-cruise-waymo-clogging-san-francisco/#:~:text=A%20San%20Francisco%20light%2Drail,and%20in%20the%20driver's%20cabin.&text=Five%20seconds%20later%2C%20brakes%20slammed%20on%20both%20vehicles.)
 - [Hackers stuck a 2-inch strip of tape on a 35-mph speed sign and successfully tricked 2 Teslas into accelerating to 85 mph](https://www.businessinsider.com/hackers-trick-tesla-accelerating-85mph-using-tape-2020-2)
+- [Waymo cars being clueless from their spawn](https://www.reddit.com/r/singularity/comments/1eqoxho/waymo_cars_being_clueless_from_their_spawn/?share_id=SVdL7kC_UaBVNx9Osdikh&utm_content=1&utm_medium=ios_app&utm_name=ioscss&utm_source=share&utm_term=1)
+
 
 ## Discrimination
 
