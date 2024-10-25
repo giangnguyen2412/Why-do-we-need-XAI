@@ -4,6 +4,9 @@
 How important is XAI? This gathers catastrophic errors of AIs in the real world and justifications why we need XAI per case.
 We need XAI to make sure AI will go "rouge"!!!
 
+# Tip for using this repo
+When you use the collected data below for your writing -- e.g. giving evidence of the need for XAI, you can use [BibTeX entry from URL
+](https://chromewebstore.google.com/detail/bibtex-entry-from-url/mgpmgkhhbjgkpnanlmlhibjfgpdpgjec?hl=en) to extract the bibtex to make the references.
 ## News
 
 - [AI-Generated Image of Pentagon Explosion Caused Markets to Dip](https://petapixel.com/2023/05/22/ai-generated-image-of-pentagon-explosion-caused-markets-to-dip/) - [Twitter's Synthetic and manipulated media policy](https://help.twitter.com/en/rules-and-policies/manipulated-media)
